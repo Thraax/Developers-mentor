@@ -1,7 +1,7 @@
-project_name
+Developers Mentor
 ==============================
 
-A short description of the project.
+Predict the developer title based on his skills.
 
 Project Organization
 ------------
